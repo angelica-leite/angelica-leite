@@ -1,5 +1,6 @@
 ### Olá, eu sou a Angélica, desenvolvedora Front End. 👋👩‍💻
 
+- 📄 Desenvolvedora Web Front End certificada pela Kenzie Academy Brasil.
 - 🔭 Atualmente busco uma vaga na área Front End.
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas (UDF).
 - 👯 Procuro colaborar em projetos Open Source.
